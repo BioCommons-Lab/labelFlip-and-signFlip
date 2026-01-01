@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18116005.svg)](https://doi.org/10.5281/zenodo.18116005)
+
 # Two-Sample Permutation Tests with Arbitrary Statistics for Paired and Unpaired Designs in MATLAB
 
 Two-sample permutation (randomisation) tests for MATLAB, implementing label-flip permutation for independent samples and sign-flip permutation for paired or repeated measures designs, with support for arbitrary user-defined test statistics.

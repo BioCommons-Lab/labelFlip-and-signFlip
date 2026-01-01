@@ -88,3 +88,9 @@ MIT License.
 ## Author
 
 Gokul Rajan.
+
+---
+
+## Citation
+
+Gokul Rajan. (2026). labelFlip and signFlip: Two-Sample Permutation Tests in MATLAB with Arbitrary Statistics for Paired and Unpaired Designs (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18116005
